@@ -1,0 +1,8 @@
+# Reset vnc
+vncserver -kill :26
+
+# For iPad mobile device,
+#vncserver :26 -geometry 1280x960
+
+# For Desktop Grasshopper
+vncserver :26 -geometry 1890x970

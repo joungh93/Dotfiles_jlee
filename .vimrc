@@ -1,0 +1,13 @@
+syntax on
+set tabstop=4
+set shiftwidth=4
+set bs=2
+set ruler
+set number
+set autoindent
+set cindent
+set smartindent
+set visualbell
+set nobackup
+set nocp
+set esckeys
